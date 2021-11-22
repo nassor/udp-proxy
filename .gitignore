@@ -1,0 +1,7 @@
+*.pb.gz
+*.png
+*.exe
+*.out
+bin/[!.]*
+test/pprof/[!.]*
+vendor/
